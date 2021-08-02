@@ -1,0 +1,1 @@
+{"data_column": ["loan_amnt", "term", "int_rate", "installment", "home_ownership", "annual_inc", "purpose", "dti", "emp_length"]}
